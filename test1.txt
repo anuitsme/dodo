@@ -1,0 +1,2 @@
+first time creating a file in git
+v1.0
